@@ -21,7 +21,7 @@ contract Datatypes
     number =1 days;
     text="etherum, Blockchain, Solana";
     favoritecolor=Color.Green;
-    person.name="Dakshan";
+    person.name="Dhanasri";
     person.age=18;
     person.vote=true;
   }
